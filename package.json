@@ -1,0 +1,17 @@
+{
+  "name": "generator-lua",
+  "version": "0.1.0",
+  "description": "Base template for lua projects",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "lua",
+    "yeoman-generator"
+  ],
+  "author": "nimalan.m",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  }
+}
